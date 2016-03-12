@@ -1,2 +1,1 @@
-# AWS Lambda Time Test Code
-
+# lambda_time_test
